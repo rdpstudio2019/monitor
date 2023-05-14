@@ -1,21 +1,23 @@
 [
   {
     "name": "ID 方糖通行证",
-    "url": "https://id.rdpstudio.top/api/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/id.rdpstudio.top.ico",
+    "url": "$ID_HEALTH",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "id",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "76.39%",
+    "uptimeDay": "76.39%",
+    "uptimeWeek": "76.39%",
+    "uptimeMonth": "76.39%",
+    "uptimeYear": "76.39%",
     "time": 456,
     "timeDay": 456,
     "timeWeek": 456,
     "timeMonth": 456,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-14": 10
+    }
   },
   {
     "name": "Community 方糖社区",
@@ -37,74 +39,82 @@
   },
   {
     "name": "HyperChat",
-    "url": "https://hyperchat.rdpstudio.top/.well-known/matrix/client",
-    "icon": "https://icons.duckduckgo.com/ip3/hyperchat.rdpstudio.top.ico",
+    "url": "$HYPERCHAT_HEALTH",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hyper-chat",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "76.49%",
+    "uptimeDay": "76.49%",
+    "uptimeWeek": "76.49%",
+    "uptimeMonth": "76.49%",
+    "uptimeYear": "76.49%",
     "time": 1165,
     "timeDay": 1165,
     "timeWeek": 1165,
     "timeMonth": 1165,
     "timeYear": 1165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-14": 10
+    }
   },
   {
     "name": "CoreTree 核心树",
-    "url": "https://api-coretree.rdpstudio.top/api/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api-coretree.rdpstudio.top.ico",
+    "url": "$CORETREE_HEALTH",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core-tree",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "76.53%",
+    "uptimeDay": "76.53%",
+    "uptimeWeek": "76.53%",
+    "uptimeMonth": "76.53%",
+    "uptimeYear": "76.53%",
     "time": 244,
     "timeDay": 244,
     "timeWeek": 244,
     "timeMonth": 244,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-14": 10
+    }
   },
   {
     "name": "AutoPatch 下载服务器",
-    "url": "https://autopatch.rdpstudio.top",
-    "icon": "https://icons.duckduckgo.com/ip3/autopatch.rdpstudio.top.ico",
+    "url": "$AUTOPATCH_HEALTH",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auto-patch",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "76.61%",
+    "uptimeDay": "76.61%",
+    "uptimeWeek": "76.61%",
+    "uptimeMonth": "76.61%",
+    "uptimeYear": "76.61%",
     "time": 448,
     "timeDay": 448,
     "timeWeek": 448,
     "timeMonth": 448,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-14": 10
+    }
   },
   {
     "name": "HiNet Link API",
-    "url": "https://hinet_link_api.rdpstudio.top",
-    "icon": "https://icons.duckduckgo.com/ip3/hinet_link_api.rdpstudio.top.ico",
+    "url": "$HINETLINK_HEALTH",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hi-net-link-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "76.64%",
+    "uptimeDay": "76.64%",
+    "uptimeWeek": "76.64%",
+    "uptimeMonth": "76.64%",
+    "uptimeYear": "76.64%",
     "time": 446,
     "timeDay": 446,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-14": 10
+    }
   }
 ]
