@@ -4,16 +4,22 @@ repo: monitor
 sites:
   - name: ID 方糖通行证
     url: $ID_HEALTH
-  - name: Community 方糖社区
-    url: https://com.rdpstudio.top
-  - name: HyperChat
-    url: $HYPERCHAT_HEALTH
+    icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
   - name: CoreTree 核心树
     url: $CORETREE_HEALTH
+    icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
+  - name: Community 方糖社区
+    url: https://com.rdpstudio.top
+    icon: "https://uploadstatic.tsocial.eu.org/uploads/2023/4/upload_20230426_UAoxjICux958HZuch.png"
+  - name: HyperChat
+    url: $HYPERCHAT_HEALTH
+    icon: "https://webstatic.rdpstudio.top/global/branding/static/hyperchat/icon.png"
   - name: AutoPatch 下载服务器
     url: $AUTOPATCH_HEALTH
+    icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
   - name: HiNet Link API
     url: $HINETLINK_HEALTH
+    icon: "https://uploadstatic.tsocial.eu.org/uploads/2023/4/upload_20230426_aXkco0X99xofaxz90X9.png"
 
 status-website:
   cname: monitor.rdpstudio.top
@@ -29,7 +35,7 @@ status-website:
 
 i18n:
   activeIncidents: 活动事件
-  allSystemsOperational: 所有系统都可以正常运行
+  allSystemsOperational: 所有系统正常运行
   incidentReport: "事件 #$NUMBER 报告 →"
   activeIncidentSummary: 在 $DATE 打开，有 $POSTS 个帖子
   incidentTitle: 事件 $NUMBER 的详细信息
