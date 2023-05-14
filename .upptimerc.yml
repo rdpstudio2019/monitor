@@ -49,10 +49,6 @@ status-website:
     averageResponseTimeTitle: 平均响应时间
     sevelDayResponseTime: 7天响应时间
     responseTimeMs: 响应时间（ms）
-    up: 在线
-    down: 离线
-    degraded: 缓慢
-    ms: ms
     loading: 加载中
     navGitHub: GitHub
     footer: (C) 方糖网络科技
