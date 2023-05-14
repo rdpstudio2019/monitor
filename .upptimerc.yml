@@ -1,31 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rdpstudio2019
+repo: monitor
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ID 方糖通行证
+    url: https://id.rdpstudio.top/api/v1/health
+  - name: Community 方糖社区
+    url: https://com.rdpstudio.top
+  - name: HyperChat
+    url: https://hyperchat.rdpstudio.top/.well-known/matrix/client
+  - name: CoreTree 核心树
+    url: https://api-coretree.rdpstudio.top/api/v1/health
+  - name: AutoPatch 下载服务器
+    url: https://autopatch.rdpstudio.top
+  - name: HiNet Link API
+    url: https://hinet_link_api.rdpstudio.top
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.rdpstudio.top
+  logoUrl: https://webstatic.rdpstudio.top/cn/fangtang-cn-footer/resource/logo.png
+  name: 方糖网络科技状态站
+  introTitle: 方糖网络科技状态站
+  introMessage: 方糖网络科技服务运行状态监控
   navbar:
-    - title: Status
+    - title: 状态站
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: 通行证用户中心
+      href: https://id.rdpstudio.top
