@@ -2,27 +2,47 @@
   {
     "name": "ID 方糖通行证",
     "url": "$ID_HEALTH",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png",
     "slug": "id",
     "status": "up",
-    "uptime": "76.39%",
-    "uptimeDay": "76.39%",
-    "uptimeWeek": "76.39%",
-    "uptimeMonth": "76.39%",
-    "uptimeYear": "76.39%",
+    "uptime": "76.44%",
+    "uptimeDay": "76.44%",
+    "uptimeWeek": "76.44%",
+    "uptimeMonth": "76.44%",
+    "uptimeYear": "76.44%",
     "time": 456,
     "timeDay": 456,
     "timeWeek": 456,
     "timeMonth": 456,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2023-05-14": 10
+      "2023-05-14": 13
+    }
+  },
+  {
+    "name": "CoreTree 核心树",
+    "url": "$CORETREE_HEALTH",
+    "icon": "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png",
+    "slug": "core-tree",
+    "status": "up",
+    "uptime": "76.56%",
+    "uptimeDay": "76.56%",
+    "uptimeWeek": "76.56%",
+    "uptimeMonth": "76.56%",
+    "uptimeYear": "76.56%",
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
+    "dailyMinutesDown": {
+      "2023-05-14": 13
     }
   },
   {
     "name": "Community 方糖社区",
     "url": "https://com.rdpstudio.top",
-    "icon": "https://icons.duckduckgo.com/ip3/com.rdpstudio.top.ico",
+    "icon": "https://uploadstatic.tsocial.eu.org/uploads/2023/4/upload_20230426_UAoxjICux958HZuch.png",
     "slug": "community",
     "status": "up",
     "uptime": "100.00%",
@@ -40,67 +60,47 @@
   {
     "name": "HyperChat",
     "url": "$HYPERCHAT_HEALTH",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://webstatic.rdpstudio.top/global/branding/static/hyperchat/icon.png",
     "slug": "hyper-chat",
-    "status": "down",
-    "uptime": "76.49%",
-    "uptimeDay": "76.49%",
-    "uptimeWeek": "76.49%",
-    "uptimeMonth": "76.49%",
-    "uptimeYear": "76.49%",
-    "time": 1165,
-    "timeDay": 1165,
-    "timeWeek": 1165,
-    "timeMonth": 1165,
-    "timeYear": 1165,
-    "dailyMinutesDown": {
-      "2023-05-14": 10
-    }
-  },
-  {
-    "name": "CoreTree 核心树",
-    "url": "$CORETREE_HEALTH",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "core-tree",
     "status": "up",
-    "uptime": "76.53%",
-    "uptimeDay": "76.53%",
-    "uptimeWeek": "76.53%",
-    "uptimeMonth": "76.53%",
-    "uptimeYear": "76.53%",
-    "time": 244,
-    "timeDay": 244,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "uptime": "76.51%",
+    "uptimeDay": "76.51%",
+    "uptimeWeek": "76.51%",
+    "uptimeMonth": "76.51%",
+    "uptimeYear": "76.51%",
+    "time": 956,
+    "timeDay": 956,
+    "timeWeek": 956,
+    "timeMonth": 956,
+    "timeYear": 956,
     "dailyMinutesDown": {
-      "2023-05-14": 10
+      "2023-05-14": 13
     }
   },
   {
     "name": "AutoPatch 下载服务器",
     "url": "$AUTOPATCH_HEALTH",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png",
     "slug": "auto-patch",
     "status": "up",
-    "uptime": "76.61%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "76.61%",
-    "uptimeMonth": "76.61%",
-    "uptimeYear": "76.61%",
+    "uptime": "76.62%",
+    "uptimeDay": "76.62%",
+    "uptimeWeek": "76.62%",
+    "uptimeMonth": "76.62%",
+    "uptimeYear": "76.62%",
     "time": 448,
     "timeDay": 448,
     "timeWeek": 448,
     "timeMonth": 448,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2023-05-14": 10
+      "2023-05-14": 13
     }
   },
   {
     "name": "HiNet Link API",
     "url": "$HINETLINK_HEALTH",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://uploadstatic.tsocial.eu.org/uploads/2023/4/upload_20230426_aXkco0X99xofaxz90X9.png",
     "slug": "hi-net-link-api",
     "status": "up",
     "uptime": "76.64%",
@@ -114,7 +114,7 @@
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2023-05-14": 10
+      "2023-05-14": 13
     }
   }
 ]
