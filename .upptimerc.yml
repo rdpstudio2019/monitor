@@ -83,31 +83,3 @@ status-website:
     duration30D: 30d
     duration1Y: 1y
     durationAll: all
-
-i18n:
-  url: "URL"
-  status: "状态"
-  history: "历史"
-  responseTime: "响应时间"
-  uptime: "正常运行时间"
-  up: "🟩 在线"
-  degraded: "🟨 缓慢"
-  down: "🟥 离线"
-  responseTimeGraphAlt: "响应时间图"
-  ms: "ms"
-  responseTime: "响应时间"
-  responseTimeDay: "24小时响应时间"
-  responseTimeWeek: "7日响应时间"
-  responseTimeMonth: "30日响应时间"
-  responseTimeYear: "1年响应时间"
-  uptime: "所有正常运行时间"
-  uptimeDay: "24小时正常运行时间"
-  uptimeWeek: "7日正常运行时间"
-  uptimeMonth: "30日正常运行时间"
-  uptimeYear: "1年正常运行时间"
-  liveStatus: "在线状态"
-  liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 一切正常"
-  degradedPerformance: "🟨 系统缓慢"
-  completeOutage: "🟥 全部离线"
-  partialOutage: "🟧 部分离线"
