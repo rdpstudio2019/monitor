@@ -1,7 +1,7 @@
-url: https://id.rdpstudio.top/api/v1/health
+url: $ID_HEALTH
 status: up
 code: 200
-responseTime: 456
-lastUpdated: 2023-05-14T16:09:25.414Z
+responseTime: 788
+lastUpdated: 2023-05-14T23:13:30.306Z
 startTime: Sun May 14 2023 16:09:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
