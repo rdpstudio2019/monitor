@@ -1,7 +1,7 @@
-url: https://autopatch.rdpstudio.top
+url: $AUTOPATCH_HEALTH
 status: up
 code: 200
-responseTime: 448
-lastUpdated: 2023-05-14T16:09:30.024Z
+responseTime: 842
+lastUpdated: 2023-05-14T23:13:33.943Z
 startTime: Sun May 14 2023 16:09:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
