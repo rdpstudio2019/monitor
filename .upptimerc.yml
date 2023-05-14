@@ -23,10 +23,9 @@ sites:
 
 status-website:
   cname: monitor.rdpstudio.top
-  logoUrl: https://webstatic.rdpstudio.top/cn/fangtang-cn-footer/resource/logo.png
   name: 方糖网络科技状态站
   introTitle: 方糖网络科技状态站
-  introMessage: 方糖网络科技服务运行状态监控
+  introMessage: 方糖网络科技服务实时运行状态
   navbar:
     - title: 状态站
       href: /
