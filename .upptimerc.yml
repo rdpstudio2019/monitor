@@ -1,23 +1,22 @@
-# Change these first
 owner: rdpstudio2019
 repo: monitor
 
 sites:
   - name: ID 方糖通行证
-    url: https://id.rdpstudio.top/api/v1/health
+    url: $ID_HEALTH
   - name: Community 方糖社区
     url: https://com.rdpstudio.top
   - name: HyperChat
-    url: https://hyperchat.rdpstudio.top/.well-known/matrix/client
+    url: $HYPERCHAT_HEALTH
   - name: CoreTree 核心树
-    url: https://api-coretree.rdpstudio.top/api/v1/health
+    url: $CORETREE_HEALTH
   - name: AutoPatch 下载服务器
-    url: https://autopatch.rdpstudio.top
+    url: $AUTOPATCH_HEALTH
   - name: HiNet Link API
-    url: https://hinet_link_api.rdpstudio.top
+    url: $HINETLINK_HEALTH
 
 status-website:
-  cname: status.rdpstudio.top
+  cname: monitor.rdpstudio.top
   logoUrl: https://webstatic.rdpstudio.top/cn/fangtang-cn-footer/resource/logo.png
   name: 方糖网络科技状态站
   introTitle: 方糖网络科技状态站
@@ -27,3 +26,92 @@ status-website:
       href: /
     - title: 通行证用户中心
       href: https://id.rdpstudio.top
+  i18n:
+    activeIncidents: 活动事件
+    allSystemsOperational: 一切正常
+    incidentReport: "事件 #$NUMBER 报告 →"
+    activeIncidentSummary: 于 $DATE 发布 $POSTS 帖子
+    incidentTitle: 事件 $NUMBER 详情
+    incidentDetails: 事件详情
+    incidentFixed: 已修复
+    incidentOngoing: 持续存在
+    incidentOpenedAt: 开启时间 
+    incidentClosedAt: 关闭时间 
+    incidentViewOnGitHub: 在GitHub上查看和订阅
+    incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
+    incidentBack: ← 返回所有事件
+    pastIncidents: 过去的事件
+    pastIncidentsResolved: 通过 $POSTS 帖子在 $MINUTES 分钟内解决
+    liveStatus: 实时状态
+    overallUptime: "总体正常运行时间: $UPTIME"
+    overallUptimeTitle: 总体正常运行时间
+    averageResponseTime: "平均响应时间: $TIMEms"
+    averageResponseTimeTitle: 平均响应时间
+    sevelDayResponseTime: 7天响应时间
+    responseTimeMs: 响应时间（ms）
+    up: 在线
+    down: 离线
+    degraded: 缓慢
+    ms: ms
+    loading: 加载中
+    navGitHub: GitHub
+    footer: (C) 方糖网络科技
+    rateLimitExceededTitle: 超出速率限制
+    rateLimitExceededIntro: 您已经超过了一小时内可以完成的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加GitHub个人访问令牌以继续使用此网站。
+    rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？
+    rateLimitExceededErrorMeaning: 该网站使用GitHub API访问有关我们网站状态的实时数据。默认情况下，GitHub允许每个IP地址每小时60个请求，这些请求是您消耗的。
+    rateLimitExceededErrorHowCanFix: 我该怎么修？
+    rateLimitExceededErrorFix: 您可以再等一个小时，您的IP地址限制将被恢复。或者，你可以添加你的GitHub个人访问令牌，这会给你每小时额外的5000个请求。
+    rateLimitExceededGeneratePAT: 了解如何生成个人访问令牌
+    rateLimitExceededHasSet: 您有一个个人访问令牌集。
+    rateLimitExceededRemoveToken: 删除令牌
+    rateLimitExceededGitHubPAT: GitHub个人访问令牌
+    rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
+    rateLimitExceededSaveToken: 保存令牌
+    errorTitle: 发生错误
+    errorIntro: 尝试获取最新状态详细信息时出错。
+    errorText: 您可以稍后再试。
+    errorHome: 返回主页
+    pastScheduledMaintenance: 过去的计划维护
+    scheduledMaintenance: 计划维护
+    scheduledMaintenanceSummaryStarted: 从 $DATE 开始维护约 $DURATION 分钟
+    scheduledMaintenanceSummaryStarts: 从 $DATE 开始维护约 $DURATION 分钟
+    startedAt: 开始时间：
+    startsAt: 开始时间：
+    duration: 时长：
+    durationMin: $DURATION 分钟
+    incidentCompleted: 已完成
+    incidentScheduled: 已预约
+    duration24H: 24h
+    duration7D: 7d
+    duration30D: 30d
+    duration1Y: 1y
+    durationAll: all
+
+i18n:
+  url: "URL"
+  status: "状态"
+  history: "历史"
+  responseTime: "响应时间"
+  uptime: "正常运行时间"
+  up: "🟩 在线"
+  degraded: "🟨 缓慢"
+  down: "🟥 离线"
+  responseTimeGraphAlt: "响应时间图"
+  ms: "ms"
+  responseTime: "响应时间"
+  responseTimeDay: "24小时响应时间"
+  responseTimeWeek: "7日响应时间"
+  responseTimeMonth: "30日响应时间"
+  responseTimeYear: "1年响应时间"
+  uptime: "所有正常运行时间"
+  uptimeDay: "24小时正常运行时间"
+  uptimeWeek: "7日正常运行时间"
+  uptimeMonth: "30日正常运行时间"
+  uptimeYear: "1年正常运行时间"
+  liveStatus: "在线状态"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 一切正常"
+  degradedPerformance: "🟨 系统缓慢"
+  completeOutage: "🟥 全部离线"
+  partialOutage: "🟧 部分离线"
