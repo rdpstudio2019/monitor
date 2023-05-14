@@ -5,8 +5,14 @@ sites:
   - name: ID 方糖通行证
     url: $ID_HEALTH
     icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
+  - name: OAuth2 方糖通行证开放平台授权登录
+    url: $OAUTH2_HEALTH
+    icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
   - name: CoreTree 核心树
     url: $CORETREE_HEALTH
+    icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
+  - name: AutoPatch 下载服务器
+    url: $AUTOPATCH_HEALTH
     icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
   - name: Community 方糖社区
     url: https://com.rdpstudio.top
@@ -14,9 +20,6 @@ sites:
   - name: HyperChat
     url: $HYPERCHAT_HEALTH
     icon: "https://webstatic.rdpstudio.top/global/branding/static/hyperchat/icon.png"
-  - name: AutoPatch 下载服务器
-    url: $AUTOPATCH_HEALTH
-    icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
   - name: HiNet Link API
     url: $HINETLINK_HEALTH
     icon: "https://uploadstatic.tsocial.eu.org/uploads/2023/4/upload_20230426_aXkco0X99xofaxz90X9.png"
