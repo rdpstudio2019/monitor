@@ -1,7 +1,7 @@
 url: $ID_HEALTH
-status: up
-code: 200
-responseTime: 486
-lastUpdated: 2023-05-26T11:06:49.342Z
+status: down
+code: 500
+responseTime: 770
+lastUpdated: 2023-05-26T13:45:24.143Z
 startTime: Sun May 14 2023 16:09:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
