@@ -1,7 +1,7 @@
 url: $HINETLINK_HEALTH
-status: up
-code: 200
-responseTime: 762
-lastUpdated: 2023-05-28T23:12:58.802Z
+status: down
+code: 530
+responseTime: 292
+lastUpdated: 2023-05-29T05:50:52.142Z
 startTime: Sun May 14 2023 16:09:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
