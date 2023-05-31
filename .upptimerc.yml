@@ -18,6 +18,14 @@ sites:
     slug: auto-patch
     url: $AUTOPATCH_HEALTH
     icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
+  - name: APData 下载存储服务器
+    slug: auto-patch-data
+    url: $APDATA_HEALTH
+    icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
+  - name: S3 存储服务器
+    slug: s3
+    url: $S3_HEALTH
+    icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
   - name: Community 方糖社区
     slug: community
     url: https://com.rdpstudio.top
