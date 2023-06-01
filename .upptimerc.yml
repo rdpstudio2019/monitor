@@ -19,7 +19,7 @@ sites:
     url: $AUTOPATCH_HEALTH
     icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
   - name: APData 下载存储服务器
-    slug: auto-patch-data
+    slug: ap-data
     url: $APDATA_HEALTH
     icon: "https://webstatic.rdpstudio.top/global/branding/static/fangtang/favicon.png"
   - name: S3 存储服务器
