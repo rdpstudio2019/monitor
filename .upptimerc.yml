@@ -81,7 +81,7 @@ i18n:
   ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
-  footer: "<script src='https://webstatic.rdpstudio.top/cn/fangtang-cn-footer/index.js'></script><script>window.addEventListener('load', function (event) {FANGTANGCNFooter.show('dark');});</script>"
+  footer: "<script src='https://webstatic.rdpstudio.top/cn/fangtang-cn-footer/index.js'></script><script src='https://webstatic.rdpstudio.top/global/fangtang-cookies-tip/index.js'></script><script>window.addEventListener('load',function(event){FANGTANGCNFooter.show('dark');FANGTANGCookiesTip.init();});</script>"
   rateLimitExceededTitle: 超出速率限制
   rateLimitExceededIntro: 您已超过一小时内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用本网站。
   rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？本网站使用 GitHub API 访问有关我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，您已经消耗了这些请求。
