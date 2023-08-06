@@ -1,7 +1,7 @@
 url: $HYPERCHAT_HEALTH
-status: up
-code: 200
-responseTime: 1106
-lastUpdated: 2023-08-06T10:12:01.965Z
+status: down
+code: 530
+responseTime: 240
+lastUpdated: 2023-08-06T12:32:41.304Z
 startTime: Sun May 14 2023 16:09:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
