@@ -1,7 +1,7 @@
 url: $HYPERCHAT_HEALTH
 status: down
 code: 502
-responseTime: 2524
-lastUpdated: 2023-08-18T23:12:30.215Z
-startTime: Sun May 14 2023 16:09:27 GMT+0000 (Coordinated Universal Time)
+responseTime: 2567
+lastUpdated: 2023-08-19T23:11:37.475Z
+startTime: 2023-05-14T16:09:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
