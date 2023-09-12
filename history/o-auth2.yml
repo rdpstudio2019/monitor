@@ -1,7 +1,7 @@
 url: $OAUTH2_HEALTH
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2023-09-12T19:57:40.580Z
+status: down
+code: 502
+responseTime: 729
+lastUpdated: 2023-09-12T20:41:01.400Z
 startTime: 2023-05-14T17:54:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
