@@ -1,7 +1,7 @@
 url: $CORETREE_HEALTH
-status: up
-code: 200
-responseTime: 687
-lastUpdated: 2023-09-12T15:53:33.717Z
+status: down
+code: 530
+responseTime: 235
+lastUpdated: 2023-09-12T17:12:27.480Z
 startTime: 2023-05-14T16:09:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
