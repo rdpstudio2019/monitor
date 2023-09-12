@@ -1,7 +1,7 @@
 url: $APDATA_HEALTH
-status: up
-code: 200
-responseTime: 467
-lastUpdated: 2023-09-12T21:54:11.699Z
+status: down
+code: 502
+responseTime: 5955
+lastUpdated: 2023-09-12T22:10:31.935Z
 startTime: 2023-06-01T06:55:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
