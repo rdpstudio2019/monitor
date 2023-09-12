@@ -1,7 +1,7 @@
 url: $AUTOPATCH_HEALTH
-status: up
-code: 200
-responseTime: 519
-lastUpdated: 2023-09-12T21:54:02.593Z
+status: down
+code: 530
+responseTime: 229
+lastUpdated: 2023-09-12T22:49:38.295Z
 startTime: 2023-05-14T16:09:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
