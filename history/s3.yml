@@ -1,7 +1,7 @@
 url: $S3_HEALTH
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2023-09-16T23:12:30.098Z
+status: down
+code: 530
+responseTime: 157
+lastUpdated: 2023-09-17T15:38:57.105Z
 startTime: 2023-05-31T17:46:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
