@@ -1,7 +1,7 @@
 url: $AUTOPATCH_HEALTH
 status: down
 code: 530
-responseTime: 227
-lastUpdated: 2023-11-05T23:12:33.045Z
+responseTime: 64
+lastUpdated: 2023-11-06T23:13:04.101Z
 startTime: 2023-05-14T16:09:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
