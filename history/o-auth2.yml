@@ -1,7 +1,7 @@
 url: $OAUTH2_HEALTH
 status: down
 code: 530
-responseTime: 298
-lastUpdated: 2023-12-04T23:14:11.423Z
+responseTime: 279
+lastUpdated: 2023-12-05T23:13:51.486Z
 startTime: 2023-05-14T17:54:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
